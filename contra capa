@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Passos a seguir </title>
+    <style>
+        body{
+            background-color: #808080;
+            color: #ffffff;
+        }
+
+        head{
+            background-color: black;
+            color: green;
+            padding: 10px;
+        }
+
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+         margin: 20px;
+        }
+
+        header,section, footer{
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+  <header>
+       <header style="background-color: rgb(112, 112, 112);
+         color: rgb(0, 0, 0); padding: 10px;">
+         <h1>Guia para montar um PC</h1>
+        </header>
+      
+        <section>
+            <h2>Reuna os componentes</h2>
+            <p>De forma a facilitar a montagem do computador e antes de montar analizar a fio cada compunente que vai ser utilizado para não danificar os outros no progresso </p>
+            <p>Este artigo mostrará como montar um computador pessoal. Após unir todos os componentes, você terá o computador inteiramente para si, podendo idealizar um sistema mais voltado ao seu próprio uso.</p>
+        </section>
+
+       <section>
+             <h2>Passo 1: instalar a Placa-mãe Gigabyte Z790 AERO G ATX LGA1700 </h2>
+             <p>Prepare a placa mãe. Se quiser montar um dispositivo mais popular, use uma placa mãe compatíveis com Intel i3, i5 ou i7.</p>
+             <img src="Placa-mae.jpg" alt="20px"
+        </section>
+
+        <center>
+            <a href="https://www.manualpdf.com.br/gigabyte/z790-aero-g/manual">Manual da placa-mãe</a>
+        </center>
+
+      <section>
+            <h2>Passo 2: Processador intel Core i5-13600kf 3,5 GHz de 14 núcleos</h2>
+            <p>Instale a CPU no soquete da placa mãe Você deve escolher a CPU correta para a placa mãe escolhida, instalando-a de acordo com as instruções dadas. Cuidado para não instalar a CPU de modo incorreto. Não apenas o computador não funcionará, mas fazê-lo pode gerar um curto-circuito e danificar a placa mãe. </p>
+            <img src="i5.jpg" alt="20px">
+        </section>
+
+     <section>
+            <h2>Passo 3: Cooler líquido para CPU Phanteks Glacier One 240 MPH 60,51 CFM
+            </h2>
+            <p>conecte o Cooler da CPU à Placa-mae</p>
+            <img src="Cooler liquido.jpg" alt="20px">         
+     </section>
+
+        <section>
+            <h2>passo 4:Anexe os  modulos da Memória Corsair Vengeance 32 GB (2 x 16 GB) DDR5-5200 CL40</h2>
+            <p>A placa mãe deve ter colunas de slots com duas ou três seções que variam em comprimento. Assegure-se de que os pinos das placas RAM se alinhem aos do conector da placa mãe. Não misture os slots para memória RAM com os slots PCI. Os últimos são, em geral, mais largos.</p>
+            <img src="memoria Corsair.jpg"
+     </section>
+
+     <section>
+            <h2>Passo 5:Abra o Gabinete Torre Média North ATX Fractal Design
+                e monte uma fonte de energia compatível com o tipo Fonte de alimentação Thermaltake Toughpower GF3 TT Premium 1000 W 80+ Gold certificada totalmente modular ATX </h2>
+            <p>Conecte todos os pinos aos drives e à placa mãe. </p>
+            <img src="Gabinete.jpg"         
+     </section>
+
+     <h2>Passo 6</h2>
+     
+     <p>Anexe a lâmina traseira da placa mãe ao gabinete e confira as posições de montagem. As instruções da placa mãe devem definir sua posição</p>
+     <h2>Passo 7</h2>
+     <p>
+         Posicione adequadamente a placa mãe no gabinete.</p>
+         <img src="caixa 2.jpg"
+
+         <h2>Passo 9: gabinete à placa mãe</h2>
+        <p>As instruções do gabinete e da placa mãe deverão indicar onde conectar os cabos.</p> 
+        <img src="caixa 3.jpg"
+
+        <h2>Passo 10</h2>
+        <p>
+            Finalmente, selecione um sistema operacional compatível e siga as instruções de instalação</p>
+        <img src="windows 11.jpg"
+
+     </section>
+        <footer>
+          <p> Este guia foi criado por Elson Mauricio</p>
+        </footer>
+    </header>
+</body>
+</html>
