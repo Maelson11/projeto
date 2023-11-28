@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu PC</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body{
+            background-color: #808080;
+            color: #ffffff;
+        }
+
+        head{
+            background-color: black;
+            color: green;
+            padding: 10px;
+        }
+
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+         margin: 20px;
+        }
+
+        header,section, footer{
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <header style="background-color: rgb(112, 112, 112);
+        color: rgb(0, 0, 0); padding: 10px;">
+          <h1>Guia para montar um PC</h1>
+        </header>
+        <img src="capa.jpg" >
+        <section>
+            <h2>Materias necessarios para montar um PC</h2>
+            <ul>
+                <li>Placa-Mãe</li>
+                <li>Processador(CPU)</li>
+                <li>Armazenamento</li>
+                <li>MEmória RAM</li>
+                <li>Cooler de CPU (ventoinha)</li>
+                <li>Placa de video</li>
+                <li>Gabinete</li>
+                <li>Fonte de alimentação</li>
+                <li>Teclado, Mouse e Monitor</li>
+                <li>Conjunto de Parafusos</li>
+            </ul>
+        </section>
+
+        <button>
+            <a href="http://127.0.0.1:5500/contra%20capa.html">instruções para a montagem de um PC</a>
+        </button>
+         
+        <h2>Descrição</h2>
+        <p>As lâminas combinam com o cinza escuro do interior do Norte, as almofadas brancas combinam com o tema branco e a cobertura cinza claro combina com os detalhes do Corsair RAM.
+
+            O resto dos componentes se encaixou. Estou usando este equipamento para jogos em 1440p/4K, então só precisava de um i5. A placa-mãe/GPU são um dado adquirido devido ao design elegante branco/prata. Também comprei alguns cabos personalizados da Cablemod em uma estética branca/cinza/prata. Por fim, o interior da plataforma ficou um pouco escuro para o meu gosto, o Phanteks Glacier AIO foi a escolha perfeita para iluminar o espaço.</p> 
+        
+        <button>
+            <a href="https://www.youtube.com/watch?v=vyR4UGZGTzU" class="button">video de exemplificação</a>
+
+        </button>
+         
+    </header>
+    
+</body>
+<p></p>
+</body>
+</html>
